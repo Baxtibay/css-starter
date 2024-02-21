@@ -30,8 +30,8 @@ body {
   font-family: "Arial", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #fff;
-  color: #000;
+  background-color: var(--bg-color);
+  color: var(--grey);
 }
 
 img {
