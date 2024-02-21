@@ -1,3 +1,13 @@
+/* CUSTOM-PROPS */
+:root {
+  --black: #323C47;
+  --grey: #707683;
+  --blue: #109CF1;
+  --light-blue: #334D6E;
+  --blur-blue: rgba(51, 77, 110, 0.5);
+}
+
+
 /* GLOBAL */
 html {
   box-sizing: border-box;
